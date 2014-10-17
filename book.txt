@@ -1,0 +1,5 @@
+book.txt 
+
+PROBeN FAIL
+
+НОВ РЕД 
