@@ -2,4 +2,6 @@ book.txt
 
 PROBeN FAIL
 
-НОВ РЕД 
+НОВ РЕД
+
+P
